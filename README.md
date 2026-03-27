@@ -2,7 +2,7 @@
 -------------------------------
 ## 语言
 
-[中文](https://github.com/nino-natsume/MIKO/edit/main/README.md)       [English](https://github.com/nino-natsume/MIKO/edit/main/README.en.md)         [日本語](https://github.com/nino-natsume/MIKO/edit/main/README.ja.md)
+[中文](https://github.com/nino-natsume/MIKO/edit/main/README.md)       [English](https://github.com/nino-natsume/MIKO/blob/main/README.en.md)         [日本語](https://github.com/nino-natsume/MIKO/blob/main/README.ja.md)
 
 -------------------------------
 Demo预览站点：https://demo.107211.xyz (站点开放时间：08：00 ~ 22：30，其余时间为关机状态，勿试！)
