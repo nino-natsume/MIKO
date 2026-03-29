@@ -5,6 +5,10 @@
 [中文](https://github.com/nino-natsume/MIKO/edit/main/README.md)       [English](https://github.com/nino-natsume/MIKO/edit/main/README.en.md)         [日本語](https://github.com/nino-natsume/MIKO/edit/main/README.ja.md)
 
 -------------------------------
+## Video demonstration
+[CLICK TO WATCH](https://www.bilibili.com/video/BV1LtXPBNEib/?vd_source=de51d0454b03e16daf2edb165922efe3)
+
+-------------------------------
 ## Example Image
 <img width="1902" height="954" alt="1" src="https://github.com/user-attachments/assets/217b9fd9-9148-435f-aed0-d2d649cbf59f" />
 <img width="1902" height="951" alt="1 (2)" src="https://github.com/user-attachments/assets/f69456f8-eb10-46f9-92a9-44db13275190" />
