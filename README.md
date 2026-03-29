@@ -5,8 +5,14 @@
 [中文](https://github.com/nino-natsume/MIKO/blob/main/README.md)       [English](https://github.com/nino-natsume/MIKO/blob/main/README.en.md)         [日本語](https://github.com/nino-natsume/MIKO/blob/main/README.ja.md)
 
 -------------------------------
-Demo预览站点：https://demo.107211.xyz (站点开放时间：08：00 ~ 22：30，其余时间为关机状态，勿试！)
+## 示例图片
+<img width="1903" height="951" alt="1 (4)" src="https://github.com/user-attachments/assets/18c05acf-03ac-4576-926a-263a19e5fd63" />
+<img width="1894" height="945" alt="1 (3)" src="https://github.com/user-attachments/assets/5eaa2a73-ab85-49fc-97a1-0e0f7e97cb1b" />
+<img width="1902" height="951" alt="1 (2)" src="https://github.com/user-attachments/assets/f69456f8-eb10-46f9-92a9-44db13275190" />
+<img width="1902" height="954" alt="1" src="https://github.com/user-attachments/assets/217b9fd9-9148-435f-aed0-d2d649cbf59f" />
 
+-------------------------------
+## 搭建说明
 测试环境：1panel + php7.4 + mysql5.6
 
 需要修改的文件是以下三个：
